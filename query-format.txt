@@ -1,0 +1,5 @@
+//This is the example file for showing the format of test file, the comments must be removed when running code
+//format:[ts	te	k]
+0	3600	2
+3600	7200	2
+7200	10800	2

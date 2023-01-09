@@ -1,0 +1,11 @@
+//This is the example file for showing the format of graph file, the comments must be removed when running code
+//format:[Source Target Timestamp]
+1 2 1082040961
+3 4 1082155839
+5 2 1082414391
+6 7 1082439619
+8 7 1082439756
+9 10 1082440403
+9 11 1082440453
+
+
